@@ -1,4 +1,4 @@
-# Simsim: The OpenSource World and With You.
+# Simsim: The OpenSource World ends With You.
 
 Продолжение легендарной серии игр про самого скучного человека, Саймона с мудфм.
 Вам предстоит оказаться в шкуре Саймона, собрать всю конфу идиотов и спасти мир.
